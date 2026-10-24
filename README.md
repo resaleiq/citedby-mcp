@@ -55,7 +55,7 @@ codex mcp add citedby --url https://citedby.eu/mcp
 
 ## Limits
 
-40 checks an hour from one address; results are kept for an hour. `check_page` is one page. A whole-site audit, with every page up to your plan's limit and the exact fix for each, is at https://citedby.eu/plans.
+40 checks an hour from one address; a result is reused for up to 6 hours (1 hour for a page check). `check_page` is one page. A whole-site audit, with every page up to your plan's limit and the exact fix for each, is at https://citedby.eu/plans.
 
 Also from CitedBy: [citedby-check](https://github.com/resaleiq/citedby-check), the same AI-crawler check as a command-line tool and GitHub Action.
 

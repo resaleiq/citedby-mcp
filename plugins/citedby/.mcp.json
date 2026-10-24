@@ -1,0 +1,5 @@
+{
+  "mcpServers": {
+    "citedby": { "type": "http", "url": "https://citedby.eu/mcp" }
+  }
+}

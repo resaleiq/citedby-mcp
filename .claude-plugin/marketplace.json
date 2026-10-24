@@ -1,0 +1,12 @@
+{
+  "name": "citedby",
+  "description": "CitedBy: check whether a website can be found and cited by AI assistants and search engines, from Claude Code.",
+  "owner": { "name": "CitedBy", "email": "hello@citedby.eu" },
+  "plugins": [
+    {
+      "name": "citedby",
+      "source": "./plugins/citedby",
+      "description": "Check a page, a site's AI-crawler access, its llms.txt and a domain's backlinks with CitedBy's MCP server. Free, no account, read-only."
+    }
+  ]
+}

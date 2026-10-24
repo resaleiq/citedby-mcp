@@ -1,0 +1,10 @@
+{
+  "name": "citedby",
+  "version": "1.0.0",
+  "description": "Check a page, a site's AI-crawler access, its llms.txt and a domain's backlinks with CitedBy's MCP server. Free, no account, read-only.",
+  "author": { "name": "CitedBy", "url": "https://citedby.eu" },
+  "homepage": "https://citedby.eu/mcp-server",
+  "repository": "https://github.com/resaleiq/citedby-mcp",
+  "license": "MIT",
+  "keywords": ["seo", "ai-search", "llms.txt", "robots.txt", "backlinks", "mcp"]
+}

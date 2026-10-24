@@ -1,0 +1,12 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "eu.citedby/citedby",
+  "title": "CitedBy",
+  "description": "Check a page, a site's AI-crawler access, its llms.txt and a domain's backlinks. Free, no account, read-only.",
+  "repository": { "url": "https://github.com/resaleiq/citedby-mcp", "source": "github" },
+  "websiteUrl": "https://citedby.eu/mcp-server",
+  "version": "1.0.0",
+  "remotes": [
+    { "type": "streamable-http", "url": "https://citedby.eu/mcp" }
+  ]
+}

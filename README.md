@@ -1,6 +1,6 @@
 # CitedBy MCP server
 
-Ask your AI tool to check whether a website can be found and cited by AI assistants and search engines. Free, no account, read-only.
+By [CitedBy](https://citedby.eu). Ask your AI tool to check whether a website can be found and cited by AI assistants and search engines. Free, no account, read-only.
 
 Server address: `https://citedby.eu/mcp` (MCP Streamable HTTP, no sign-in). Page with the same instructions: https://citedby.eu/mcp-server
 

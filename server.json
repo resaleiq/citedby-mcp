@@ -4,7 +4,7 @@
   "title": "CitedBy",
   "description": "Check a page, AI-crawler access, llms.txt and backlinks of a site. Free, read-only.",
   "repository": {
-    "url": "https://github.com/resaleiq/citedby-mcp",
+    "url": "https://github.com/citedby-eu/citedby-mcp",
     "source": "github"
   },
   "websiteUrl": "https://citedby.eu/mcp-server",

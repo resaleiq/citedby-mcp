@@ -26,7 +26,7 @@ claude mcp add --transport http citedby https://citedby.eu/mcp
 or install the plugin, which also adds a skill that picks the right tool for the question:
 
 ```
-/plugin marketplace add resaleiq/citedby-mcp
+/plugin marketplace add citedby-eu/citedby-mcp
 /plugin install citedby@citedby
 ```
 
@@ -59,6 +59,6 @@ codex mcp add citedby --url https://citedby.eu/mcp
 
 Check your own site in the browser, free, no account (up to 10 pages): https://citedby.eu/?utm_source=github&utm_medium=referral&utm_campaign=citedby_202611&utm_content=mcp_readme
 
-Also from CitedBy: [citedby-check](https://github.com/resaleiq/citedby-check), the same AI-crawler check as a command-line tool and GitHub Action.
+Also from CitedBy: [citedby-check](https://github.com/citedby-eu/citedby-check), the same AI-crawler check as a command-line tool and GitHub Action.
 
 Questions: hello@citedby.eu. MIT licence.
